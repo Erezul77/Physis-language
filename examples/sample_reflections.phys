@@ -1,0 +1,7 @@
+# Physis Example Reflection
+
+@Emotion := [Joy %0.8]
+@Thought := [Idea -> Insight] <>
+@Reflection := [Emotion, Thought]
+
+Reflection := <Emotion %0.8 -> Idea -> Insight>
