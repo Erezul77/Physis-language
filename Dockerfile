@@ -1,15 +1,9 @@
-# Use Python 3.10 as base
 FROM python:3.10
 
-# Set working directory
-WORKDIR /code
+WORKDIR /app
+COPY . /app
 
-# Install dependencies
-COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy app code
-COPY . .
-
-# Run the app
-CMD ["python", "app.py"]
+EXPOSE 7860
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "7860"]
