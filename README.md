@@ -1,6 +1,5 @@
----
+# Physis Language
 title: Physis Language
-<<<<<<< HEAD
 emoji: 🧬
 colorFrom: blue
 colorTo: indigo
@@ -18,8 +17,6 @@ tags:
   - ontology
 thumbnail: https://raw.githubusercontent.com/Erezul77/Physis-language/main/physis_logo/Physis_Share_Banner.png
 
-# Physis Language
-
 _Physis_ is a recursive, reflective language to express ontological structures, emotional coherence, and thought evolution.
 
 - ✨ Fractal Syntax
@@ -27,7 +24,7 @@ _Physis_ is a recursive, reflective language to express ontological structures, 
 - ♻️ Reflective Design
 - 📦 Docker-ready
 
-<<<<<<< HEAD
+
 - **SpiñO** — AI for emotional reflection
 - **Noēsis** — Decentralized epistemic protocol
 - **Honestra** — Programmable ethics engine
@@ -59,6 +56,5 @@ Deploy using Docker template. This package is ready to upload.
 
 ---
 MIT License | Created with love by Erez Ashkenazi
-=======
-Created by [Erez Ashkenazi](https://www.noesis-net.org).
->>>>>>> b72499c (Add README metadata)
+
+
