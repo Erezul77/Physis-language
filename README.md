@@ -1,33 +1,37 @@
-# Physis Reflector API
+# Physis Language
 
-🌱 **Physis** is a recursive symbolic language inspired by Nature. This API lets you reflect on Physis expressions using a custom parser and symbolic meaning engine.
+_Physis_ is a recursive, reflective language designed for expressing ontological structures, emotional coherence, and the evolution of thought.
 
-## 🔁 Example
+Created by [Erez Ashkenazi](https://www.noesis-net.org), Physis is part of a broader ecosystem:
 
-POST to `/reflect` with:
-```json
-{ "code": "(🌱☯)" }
-```
+- **SpiñO** — AI for emotional reflection
+- **Noēsis** — Decentralized epistemic protocol
+- **Honestra** — Programmable ethics engine
+- **PHL** — Perfect Harmony Ledger
 
-Response:
-```json
-{
-  "reflection": [
-    {
-      "group": [
-        { "symbol": "🌱", "meaning": "growth, potential, emergence" },
-        { "symbol": "☯", "meaning": "duality, harmony, balance" }
-      ]
-    }
-  ]
-}
-```
+## Features
 
-## 🚀 How to run
+- Fractal syntax
+- Ontological modeling
+- Reflective evolution
+
+## Run Locally
+
 ```bash
-pip install flask
-python app.py
+pip install -r requirements.txt
+uvicorn app:app --host 0.0.0.0 --port 7860
 ```
 
-## 🌐 Deploy to Hugging Face
-Just upload this folder as a new Space (Python + Flask template).
+## Docker
+
+```bash
+docker build -t physis-language .
+docker run -p 7860:7860 physis-language
+```
+
+## Hugging Face
+
+Deploy using Docker template. This package is ready to upload.
+
+---
+MIT License | Created with love by Erez Ashkenazi
