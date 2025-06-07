@@ -1,10 +1,14 @@
 # Physis Language
 title: Physis Language
 emoji: 🧬
+<<<<<<< HEAD
 colorFrom: blue
 colorTo: indigo
+=======
+colorFrom: indigo
+colorTo: emerald
+>>>>>>> 3b61d0c (Add Hugging Face Spaces metadata header)
 sdk: docker
-sdk_version: "1.0"
 app_file: app.py
 pinned: true
 short_description: A reflective recursive language for ontology, clarity, and emotional coherence.
