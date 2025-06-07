@@ -2,7 +2,7 @@
 title: Physis Language
 emoji: 🧬
 colorFrom: indigo
-colorTo: emerald
+colorTo: green
 sdk: docker
 sdk_version: "1.0"
 app_file: app.py
