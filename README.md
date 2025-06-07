@@ -2,10 +2,9 @@
 ---
 title: Physis Language
 emoji: 🧬
-colorFrom: green
-colorTo: blue
+colorFrom: indigo
+colorTo: emerald
 sdk: docker
-sdk_version: "1.0"
 app_file: app.py
 pinned: true
 ---
