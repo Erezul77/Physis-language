@@ -1,3 +1,14 @@
+---
+title: Physis Language
+emoji: 🧬
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+sdk_version: "1.0"
+app_file: app.py
+pinned: true
+---
+
 # Physis Language
 
 _Physis_ is a recursive, reflective language designed for expressing ontological structures, emotional coherence, and the evolution of thought.
