@@ -1,25 +1,11 @@
 # Physis Language
 title: Physis Language
-emoji: 🧬
-<<<<<<< HEAD
-colorFrom: blue
-colorTo: indigo
-=======
 colorFrom: indigo
 colorTo: emerald
->>>>>>> 3b61d0c (Add Hugging Face Spaces metadata header)
 sdk: docker
 app_file: app.py
 pinned: true
 short_description: A reflective recursive language for ontology, clarity, and emotional coherence.
-tags:
-  - language
-  - philosophy
-  - ai
-  - spinoza
-  - reflection
-  - ontology
-thumbnail: https://raw.githubusercontent.com/Erezul77/Physis-language/main/physis_logo/Physis_Share_Banner.png
 
 _Physis_ is a recursive, reflective language to express ontological structures, emotional coherence, and thought evolution.
 
