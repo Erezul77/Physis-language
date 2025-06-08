@@ -1,11 +1,5 @@
 # Physis Language
-title: Physis Language
-colorFrom: indigo
-colorTo: emerald
-sdk: docker
-app_file: app.py
-pinned: true
-short_description: A reflective recursive language for ontology, clarity, and emotional coherence.
+A reflective recursive language for ontology, clarity, and emotional coherence.
 
 _Physis_ is a recursive, reflective language to express ontological structures, emotional coherence, and thought evolution.
 
