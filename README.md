@@ -7,6 +7,15 @@ sdk: docker
 sdk_version: "1.0"
 app_file: app.py
 pinned: true
+short_description: A reflective recursive language for ontology, clarity, and emotional coherence.
+tags:
+  - language
+  - philosophy
+  - ai
+  - spinoza
+  - reflection
+  - ontology
+thumbnail: https://raw.githubusercontent.com/Erezul77/Physis-language/main/physis_logo/Physis_Share_Banner.png
 ---
 
 # Physis Language
